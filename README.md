@@ -163,5 +163,6 @@ Model performance can be improved with additional training epochs
 
 ---
 
-📄 License
+## 📄 License
+
 This project is for educational purposes. Please check the licenses of the underlying models and datasets used.
